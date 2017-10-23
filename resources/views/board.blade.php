@@ -28,7 +28,7 @@
 					<td>60</td>
 					<td>180</td>
 					<td>
-						<a class="btn btn-default btn-sm" href="#">查看學生資料</a>
+						<a class="btn btn-default btn-sm" href="score.blade.php">查看學生資料</a>
 					</td>
 				</tr>
 				</tbody>
