@@ -13,7 +13,7 @@
 
 Route::get('/', 'HomeController@index');
 
-
+Route::get('/board', 'BoardController@getIndex');
 
 Route::pattern('student_no','s[0-9]{10}');
 
